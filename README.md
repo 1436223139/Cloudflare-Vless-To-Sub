@@ -8,7 +8,7 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 
 ### 1. 部署 Cloudflare Pages：
    - 在 Github 上先 Fork 本项目，并点上 Star !!!
-   - 在 Cloudflare Pages 控制台中选择 `连接到 Git`后，选中 `WorkerVless2sub`项目后点击 `开始设置`。
+   - 在 Cloudflare Pages 控制台中选择 `连接到 Git`后，选中 `Cloudflare-Vless-To-Sub`项目后点击 `开始设置`。
      
 ### 2. 给 Pages绑定 自定义域：
    - 在 Pages控制台的 `自定义域`选项卡，下方点击 `设置自定义域`。
